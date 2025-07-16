@@ -1,6 +1,6 @@
 # Demo FastAPI DevOps Challenge
 
-This project demonstrates a simple FastAPI web service with Dockerization, CI/CD pipeline, Helm packaging, Kubernetes deployment, and Open Policy Agent (OPA) integration.
+This project demonstrates a simple FastAPI web service with Dockerization, CI/CD pipeline, Helm packaging, and Kubernetes deployment.
 
 ---
 
@@ -11,7 +11,6 @@ This project demonstrates a simple FastAPI web service with Dockerization, CI/CD
 - Dockerized with best practices  
 - CI/CD using GitHub Actions (build & test)  
 - Helm chart for Kubernetes deployment  
-- Open Policy Agent (OPA) policy enforcing security best practices  
 
 ---
 
